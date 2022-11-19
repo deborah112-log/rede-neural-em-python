@@ -1,1 +1,1 @@
-# rede-neural-em-python
+# Rede Neural em Python.
